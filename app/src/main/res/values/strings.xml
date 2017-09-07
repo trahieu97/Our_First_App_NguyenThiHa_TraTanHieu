@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Our_First_App</string>
+    <string name="edit_hint">Nhập bất kỳ đi</string>
+</resources>
